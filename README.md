@@ -24,4 +24,4 @@
 
 # Текст задания
 
-[http://172.245.77.148/task.pdf] (http://172.245.77.148/task.pdf)
+[http://172.245.77.148/senior-task/task.pdf] (http://172.245.77.148/senior-task/task.pdf)
